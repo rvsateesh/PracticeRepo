@@ -8,6 +8,7 @@ public class TestClass {
 		PowerConsumption pc = new PowerConsumption(1, 2, 3);
 		System.out.println("Current Load in Home is " + pc.CurrentLoad(1, 2, 3));
 		
+		System.out.println("End of Test Class");
 	}
 	
 }
